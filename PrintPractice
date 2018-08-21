@@ -1,0 +1,14 @@
+hotdogs = 2.5
+potato_chip = 1.5
+sodas = 1.25
+
+hotdog_count, potato_chip_count, soda_count = input("Enter many hotdogs, bags of chips, and sodas you've taken (no spaces needed.. EX:348): ")
+
+
+
+hotdog_count = int(hotdog_count)
+potato_chip_count = int(potato_chip_count)
+soda_count = int(soda_count)
+
+print(baby, fuck)
+print("your total = $", ((hotdog_count * hotdogs) +(potato_chip_count * potato_chip) + (soda_count * sodas)))
